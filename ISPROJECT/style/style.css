@@ -1,0 +1,31 @@
+p{
+    font-size:19px;
+    font-weight: bold;
+} 
+
+#topofpage{
+    text-decoration: underline;
+} 
+
+.emphasizetext{
+    font-style: italic;
+    color:rgb(9, 9, 79)/* goodle hex codes for branding and you can find the secific branding shades*/
+    
+}
+
+body{
+    background-color:rgb(171, 188, 188); 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(0, 0, 0);
+   border: 5px solid;
+    padding:20px; 
+    margin:20px;
+    text-align: left;
+    
+}
+
+
+
+
+
+/* this is a comment */
